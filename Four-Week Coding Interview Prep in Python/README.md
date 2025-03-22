@@ -6,3 +6,4 @@
         - [Shift Letters in a String](./Easy%20Interview%20Coding%20Practice%20in%20Python/String%20Manipulation%20Without%20Built-in%20Methods/Shift%20Letters%20in%20a%20String.py)
         - [String Case Transformation Using ASCII Values](./Easy%20Interview%20Coding%20Practice%20in%20Python/String%20Manipulation%20Without%20Built-in%20Methods/String%20Case%20Transformation%20Using%20ASCII%20Values.py)
         - [Replacing a Character in a String without Using Built-in Methods](./Easy%20Interview%20Coding%20Practice%20in%20Python/String%20Manipulation%20Without%20Built-in%20Methods/Replacing%20a%20Character%20in%20a%20String%20without%20Using%20Built-in%20Methods.py)
+        - [Swapping Adjacent Characters in a String](./Easy%20Interview%20Coding%20Practice%20in%20Python/String%20Manipulation%20Without%20Built-in%20Methods/Swapping%20Adjacent%20Characters%20in%20a%20String.py)
