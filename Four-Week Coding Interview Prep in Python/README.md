@@ -10,3 +10,4 @@
         - [Check If a String is a Palindrome Without Built-in Methods](./Easy%20Interview%20Coding%20Practice%20in%20Python/String%20Manipulation%20Without%20Built-in%20Methods/Check%20If%20a%20String%20is%20a%20Palindrome%20Without%20Built-in%20Methods.py)
     - Basic List Operations Without Built-in Methods
         - [Finding the Minimum Element in a List without Built-in Methods](./Easy%20Interview%20Coding%20Practice%20in%20Python/Basic%20List%20Operations%20Without%20Built-in%20Methods/Finding%20the%20Minimum%20Element%20in%20a%20List%20without%20Built-in%20Methods.py)
+        - [Counting Even and Odd Numbers in a List without Built-in Methods](./Easy%20Interview%20Coding%20Practice%20in%20Python/Basic%20List%20Operations%20Without%20Built-in%20Methods/Counting%20Even%20and%20Odd%20Numbers%20in%20a%20List%20without%20Built-in%20Methods.py)
