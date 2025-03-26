@@ -13,3 +13,5 @@
         - [Counting Even and Odd Numbers in a List without Built-in Methods](./Easy%20Interview%20Coding%20Practice%20in%20Python/Basic%20List%20Operations%20Without%20Built-in%20Methods/Counting%20Even%20and%20Odd%20Numbers%20in%20a%20List%20without%20Built-in%20Methods.py)
         - [Counting the Smallest Number in an Array](./Easy%20Interview%20Coding%20Practice%20in%20Python/Basic%20List%20Operations%20Without%20Built-in%20Methods/Counting%20the%20Smallest%20Number%20in%20an%20Array.py)
         - [Finding the Second Largest Number in a List without Built-in Methods](./Easy%20Interview%20Coding%20Practice%20in%20Python/Basic%20List%20Operations%20Without%20Built-in%20Methods/Finding%20the%20Second%20Largest%20Number%20in%20a%20List%20without%20Built-in%20Methods.py)
+    - Standard Math Algorithms in Python
+        - [Check if a Number is a Perfect Square](./Easy%20Interview%20Coding%20Practice%20in%20Python/Standard%20Math%20Algorithms%20in%20Python/Check%20if%20a%20Number%20is%20a%20Perfect%20Square.py)
